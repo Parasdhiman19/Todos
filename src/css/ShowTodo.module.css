@@ -1,0 +1,31 @@
+.Todo_show_container{
+ width: 100%;
+ height: auto;
+ padding: 20px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 10px;
+ flex-wrap: wrap;
+}
+
+.list_item{
+  width: 80%;
+  height: 3rem;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  font-size: x-large;
+  justify-content: space-between;
+}
+
+.delete_btn{
+  height: 3rem;
+  width: 5vw;
+  min-width: 60px;
+  background-color: pink;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}

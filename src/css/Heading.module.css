@@ -1,0 +1,12 @@
+.heading {
+ width: 100%;
+ background-color: pink; 
+ height: 7vw;
+ min-height: 4rem;
+ font-size: 8vw;
+ text-align: center;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-weight: 800;
+}

@@ -1,0 +1,10 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: calibri;
+}
+
+body{
+  background-color: rgb(6, 6, 24);
+}

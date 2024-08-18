@@ -1,0 +1,66 @@
+.search_box{
+  margin-top: 3vw;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search_input{
+
+  width: 60%;
+  max-width: 40rem;
+  height: 2rem;
+  padding-left: 20px;
+  font-size: large;
+  border: none;
+
+
+}
+
+
+.search_icon{
+  background-color: pink;
+  height: 2rem;
+  width: 4rem;
+  user-select: none;
+  cursor: pointer;
+  color: #000000;
+
+
+}
+
+.searched_content{
+  margin-top: 20px;
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  color: white;
+}
+
+.list_item{
+  color:black;
+  width: 80%;
+  height: 3rem;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  font-size: x-large;
+  justify-content: space-between;
+}
+
+.delete_btn{
+  height: 3rem;
+  width: 5vw;
+  min-width: 60px;
+  background-color: pink;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}
